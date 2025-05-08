@@ -158,8 +158,8 @@ h1 {
 	color: var(--grey);
 	font-size: var(--text-paragraph);
 	position: absolute;
-	top: 10px;
-	right: 30px;
+	top: 8px;
+	right: 60px;
 }
 
 .btn {
