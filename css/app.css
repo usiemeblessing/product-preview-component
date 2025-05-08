@@ -177,10 +177,11 @@ h1 {
 }
 
 .btn img {
-	width: 24px;
+	width: 16px;
 }
 
 .btn p {
+	font-size: var(--text-paragraph);
 	font-weight: var(--font-weight-bold);
 }
 
