@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](./images/desktop-view.png.jpg)
+![Desktop view] (./images/desktop-view.png)
 
-![Mobile view](./images/mobile-view.png.jpg)
+![Mobile view] (./images/mobile-view.png.jpg)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Github] (https://github.com/usiemeblessing/product-preview-component)
+-   Live Site URL: [Netlify] (https://usiemeblessing-product-preview.netlify.app/)
 
 ## My process
 
