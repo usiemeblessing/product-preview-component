@@ -31,7 +31,7 @@ Thumbs.db
 
 # Frontend Mentor challenge assets
 /design/
-/style-guide.md/
+style-guide.md/
 
 # Package files
 package-lock.json

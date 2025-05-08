@@ -30,6 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop view](./images/desktop-view.png.jpg)
+
 ![Mobile view](./images/mobile-view.png.jpg)
 
 ### Links
@@ -58,4 +59,4 @@ I would love to improve greatly on my knowledge and application of media queries
 
 ## Author
 
--   Frontend Mentor - [@](https://www.frontendmentor.io/profile/usiemeblessing)
+-   Frontend Mentor - [@usiemeblessing](https://www.frontendmentor.io/profile/usiemeblessing)
