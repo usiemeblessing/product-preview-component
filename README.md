@@ -31,7 +31,7 @@ Users should be able to:
 
 ![Desktop view] (./images/desktop-view.png)
 
-![Mobile view] (./images/mobile-view.png.jpg)
+![Mobile view] (./images/mobile-view.png)
 
 ### Links
 
